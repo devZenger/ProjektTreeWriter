@@ -10,7 +10,9 @@ Dieses Projekt ist ein Lern- und Demonstrationsprojekt für alle, die an meiner 
 - [Installation & Ausführung](#installation--ausführung)
 - [Lizenz](#lizenz)
 - [Drittanbieter-Lizenzen](#drittanbieter-lizenzen)
+
 ---
+
 ## Projektübersicht
 **ProjektTreeWriter** ist ein kleines Python-Tool, das eine übersichtliche Baumstruktur (`dir.md`) eines Verzeichnisses erstellt – ähnlich wie der Befehl `tree`, jedoch mit Unterstützung für `.gitignore`-Regeln und Markdown-Ausgabe.  
 
@@ -34,9 +36,9 @@ Zukünftige Versionen sollen benutzerdefinierte Regeln und die freie Wahl des Zi
 - [Flake8](https://flake8.pycqa.org/)
 - [PyInstaller](https://www.pyinstaller.org/)
 
+---
+
 ## Screenshot
-Copyright (c) 2025 Christian Zenger  
-GitHub: https://github.com/devZenger/ProjektTreeWriter
 
 <div style="text-align: center;">
   <b><br>Vorschau Beispiel in VS Code</b><br>
@@ -48,13 +50,14 @@ GitHub: https://github.com/devZenger/ProjektTreeWriter
   </div>
 </div>
 
+---
 
 ## Installation & Ausführung
 
 Es gibt zwei Möglichkeiten das Programm zu nutzen:
 ### 1. Ohne Installation als .exe Datei
 - `zip`-Datei herunterladen und entpacken
-- Download: [Netzwerkrechner.exe herunterladen](https://github.com/Name/)
+- Download: [Netzwerkrechner.exe herunterladen](https://github.com/devZenger/ProjetTreeWriter/releases
 - Netzwerkrechner.exe im Verzeichnis das dokumentiert werden soll ausführen
 
 ### 2. Quellcode herunterladen und ausführen
@@ -67,7 +70,7 @@ Es gibt zwei Möglichkeiten das Programm zu nutzen:
 
 1. **Repository klonen**
 ````bash
-git clone https://github.com/DEINUSERNAME/ProjektTreeWriter.git
+git clone https://github.com/devZenger/ProjektTreeWriter.git
 cd ProjektTreeWriter
 ````
 
@@ -101,11 +104,15 @@ Die Datei `dir.md` wird im aktuellen Verzeichnis erstellt.
 ---
 
 ## Lizenz
+
+Copyright (c) 2025 Christian Zenger  
+GitHub: https://github.com/devZenger/ProjektTreeWriter
+
 Dieses Projekt steht unter der **MIT-Lizenz** und darf gerne weiterverwendet oder angepasst werden – natürlich unter Einhaltung der Lizenzbedingungen.  
 Es wurde mit viel Lernfreude und Neugier zu Übungs- und Demonstrationszwecken entwickelt.  
 Wenn du Feedback, Fragen oder Ideen hast, freue ich mich über eine Nachricht.
 
-### Verwendete Drittanbieter-Technologien
+## Verwendete Drittanbieter-Technologien
 - **Python 3.13.1** – [PSF License](https://docs.python.org/3/license.html)
 - **Pathspec** – [Mozilla Public License Version 2.0](https://github.com/cpburnz/python-pathspec?tab=MPL-2.0-1-ov-file#readme)
 - **PyInstaller** – [GPL v2 License](https://pypi.org/search/?c=License+%3A%3A+OSI+Approved+%3A%3A+GNU+General+Public+License+v2+%28GPLv2%29)
