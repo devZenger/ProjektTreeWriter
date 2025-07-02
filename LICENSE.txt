@@ -1,0 +1,32 @@
+MIT License
+
+Copyright (c) 2025 Christian Zenger
+GitHub: https://github.com/devZenger/ProjektTreeWriter
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+Verwendete Drittanbieter-Technologien
+- Python 3.13.1 – PSF License: https://docs.python.org/3/license.html
+- Tkinter – Teil der Python-Standardbibliothek (PSF License: https://docs.python.org/3/license.html)
+- PyInstaller – GPL v2 License: https://pypi.org/search/?c=License+%3A%3A+OSI+Approved+%3A%3A+GNU+General+Public+License+v2+%28GPLv2%29
+- Flake8 – MIT License: https://github.com/PyCQA/flake8/blob/main/LICENSE
+- Mermaid – MIT License: https://github.com/mermaid-js/mermaid/blob/develop/LICENSE
+
+Bitte beachte die jeweiligen Lizenzbedingungen bei Weiterverwendung. 
